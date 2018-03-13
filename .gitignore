@@ -3,3 +3,6 @@
 ################################################################################
 
 /palegg/Bin
+/palegg/Web.Debug.config
+/palegg/Web.config
+/palegg/packages.config
